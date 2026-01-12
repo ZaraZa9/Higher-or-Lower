@@ -7,6 +7,7 @@ Designed for casual play with 1 human player and 3 bot players, featuring a dyna
 ## Game Overview
 
 Uses a standard card deck (values 2–14, four suits)
+
 Players guess whether the next card is higher or lower
 Wrong guess = lose a shot (life)
 Each player starts with 5 shots

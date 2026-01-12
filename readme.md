@@ -24,22 +24,31 @@ Last player remaining wins
 
 ### HTML
 Provides a simple, semantic structure for the game UI
+
 Easy to modify and understand
+
 Runs in any modern browser without setup
 
 ### CSS
 Handles layout, styling, and animations
+
 Animated blob style gradient background with a vignette effect to keep focus on the game
+
 No external libraries -> lightweight and fast
 
 ### JavaScript
 Manages game logic, turns, deck handling, and bots
+
 Event driven for user interaction
+
 Keeps state in memory for simplicity and clarity
 
 Why vanilla HTML/CSS/JS?
+
 -No build tools required
+
 -Cross platform and cross browser compatible
+
 -Easy to run, share, and extend
 
 
@@ -72,12 +81,19 @@ Clear UI state updates
 -Active players, eliminated players, and remaining shots are visually highlighted for clarity.
 
 ## Possible Improvements & Ideas
+
 Add restart / new game button
+
 Improve bot logic (probability based decisions)
+
 Card flip animations
+
 Sound effects for guesses and eliminations
+
 Mobile responsive layout
+
 Multiplayer support (local or online)
+
 Configurable rules (number of shots, players, deck size)
 
 

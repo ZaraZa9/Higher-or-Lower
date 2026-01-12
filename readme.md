@@ -43,7 +43,7 @@ Event driven for user interaction
 
 Keeps state in memory for simplicity and clarity
 
-Why vanilla HTML/CSS/JS?
+### Why vanilla HTML/CSS/JS?
 
 -No build tools required
 

@@ -56,8 +56,8 @@ Keeps state in memory for simplicity and clarity
 
 1. Clone or download the repository
 2. Ensure all files are in the same directory:
-    index.html
-    style.css
+    index.html, 
+    style.css, 
     script.js
 3. Open index.html in any modern web browser (Chrome, Firefox, Edge, Safari)
 

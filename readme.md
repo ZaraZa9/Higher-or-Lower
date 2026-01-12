@@ -75,7 +75,7 @@ Randomised bot delay (1–4s)
 -Makes bots feel more human and prevents instant turns.
 
 CSS-only animated background  
--Avoids performance heavy canvas/WebGL while still providing a lively visual effect.
+-Uses pure CSS animations and gradients to create a dynamic, visually engaging background while remaining lightweight and performant.
 
 Clear UI state updates  
 -Active players, eliminated players, and remaining shots are visually highlighted for clarity.
